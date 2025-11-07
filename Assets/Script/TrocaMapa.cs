@@ -11,4 +11,9 @@ public class TrocaMapa : MonoBehaviour
     {
         SceneManager.LoadScene("Fase2");
     }
+
+    public void Fase4()
+    {
+        SceneManager.LoadScene("Fase4");
+    }
 }
